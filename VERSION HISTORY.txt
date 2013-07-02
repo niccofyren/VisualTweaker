@@ -1,0 +1,13 @@
+/*************************************************/
+
+Visual Tweaker - A simple processing experiment
+Made by Nicolai R. Tellefsen - All rights reserved
+
+/*************************************************/
+
+Version history
+
+1.0 - Peer assessment version
+- Basic set of visualizers
+- Basic video adjustments options
+- Little visualizer adjustment options
